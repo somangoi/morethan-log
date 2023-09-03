@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://www.somihwang.com</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/about</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/docs</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/hot-to-make-sitemap-in-next-js</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/apollo-gettings-started-mutate</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/apollo-gettings-started-query</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/resume</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/about-graphql</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/how-to-apply-ga-to-next.js</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.somihwang.com/about-opensource-license</loc><lastmod>2023-09-03T09:02:21.976Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.somihwang.com</loc><lastmod>2023-09-03T10:00:16.335Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.somihwang.com/tailwind-101</loc><lastmod>2023-09-03T10:00:16.335Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.somihwang.com/about</loc><lastmod>2023-09-03T10:00:16.335Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
