@@ -17,13 +17,6 @@ type Props = {
 const Feed: React.FC<Props> = ({ categories, tags, posts }) => {
   const [q, setQ] = useState("")
 
-  //   .box {
-  //     -ms-overflow-style: none;
-  //     scrollbar-width: none;
-  // }
-  // .box::-webkit-scrollbar {
-  //     display: none;
-  // }
   return (
     <div className="block md:grid grid-cols-12 gap-6">
       <div
@@ -41,7 +34,7 @@ const Feed: React.FC<Props> = ({ categories, tags, posts }) => {
         <Lists.TagList className="block lg:hidden" data={tags} />
         <FeedHeader categories={categories} />
         <Lists.PostList q={q} posts={posts} />
-        <Footer className="block lg:hidden flex justify-center pb-8" />
+        <Footer className="lg:hidden flex justify-center pb-8" />
       </div>
       <div
         className="common-no-scroll-bar sticky top-[73px] hidden lg:block lg:col-span-3 overflow-scroll"

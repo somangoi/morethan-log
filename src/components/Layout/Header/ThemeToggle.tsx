@@ -2,6 +2,8 @@ import { CONFIG } from "@/site.config"
 import { ThemeType } from "@/src/types"
 import { getTheme } from "@hooks/useThemeEffect"
 import React, { useEffect, useState } from "react"
+import "@theme-toggles/react/css/Classic.css"
+import { Classic } from "@theme-toggles/react"
 
 type Props = {}
 
@@ -25,8 +27,11 @@ const ThemeToggle: React.FC<Props> = () => {
 
   if (CONFIG.blog.theme !== "auto") return null
   return (
-    <div className={`cursor-pointer dark:text-gray-50`} onClick={handleClick}>
-      {theme === "light" ? "☀️" : "🌙"}
+    <div
+      className={`cursor-pointer dark:text-gray-50 flex align-middle justify-center`}
+      onClick={handleClick}
+    >
+      <Classic duration={750} toggled={theme === "dark"} />
     </div>
   )
 }
